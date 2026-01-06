@@ -1,6 +1,6 @@
 # Test
 this is a test
-![alt text](image.png)
+![alt text](Pictures/image.png)
 
 
 Day       | Min Temp | Max Temp
