@@ -1,22 +1,40 @@
-# Test
-this is a test
-![alt text](Pictures/image.png)
+# DN-260001_31001_41001_Model_NEXT_PSU_Board
 
 
-Day       | Min Temp | Max Temp
---------- | -------- | --------
-Monday    |  11° C   |  22° C
-Tuesday   |   9° C   |  19° C
-Wednesday |  10° C   |  21° C
 
-Hey
-ho
+|     |  |
+| -------- | ------- |
+|Name            |  Model_NEXT_PSU_Board     |
+|Part Number     |  31748 & 41748            |
+|Part Revision   |  1                        |
+|Status          |  DRAFT                    | 
 
-Dette er en test 
+|                   |                        |
+| --------          | -------                |
+|Doc Revision       |  1                     |
+|Prepared by        |  Simen Håbet           |
+|Checked by         |                        |
+|Approved by        |                        |
 
-## hei
 
-# hei
-## ho
+
+## Pending Tasks
+- [ ] Create pdf of finalized DN
+
+[TOC]
+
+## Technical Documents
+Add references - some way to do this?
+
+## Preface
 ddd
 
+## Abbrivations
+ddd
+
+## Change log
+
+### Rev1
+New board 
+
+## Design Part XX
